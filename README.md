@@ -1,4 +1,4 @@
-# JioHotstar-Style Streaming Platform
+# JioHotstar-Streaming Platform
 
 A polished **React + Vite** streaming-platform project inspired by modern OTT interfaces. It is built for learning, portfolio demonstrations, and frontend CRUD practice.
 
