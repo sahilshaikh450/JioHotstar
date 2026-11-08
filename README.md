@@ -103,3 +103,7 @@ This project demonstrates React state management with `useState`, derived data w
 ## ⚠️ Image / Trailer URLs
 
 The sample catalog uses publicly accessible image and YouTube embed URLs from the source learning project. For a production application, use properly licensed assets and a backend/database instead of LocalStorage.
+
+## 📄 License
+
+[MIT](LICENSE) © Sahil Shaikh
